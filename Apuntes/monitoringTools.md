@@ -5,3 +5,6 @@
 1. [Graphite](https://graphiteapp.org/) Specialized monitoring tool
 1. [logstash](https://www.elastic.co/logstash) Specialized monitoring tool
 1. [collectd](https://collectd.org/) Specialized monitoring tool
+1. [Graphana](https://grafana.com/) Monitoringing dashboard
+1. [Smashing](https://smashing.github.io/) Monitoringing dashboard
+1. [InfluxDB](https://www.influxdata.com/) Open Source Time Series Database
