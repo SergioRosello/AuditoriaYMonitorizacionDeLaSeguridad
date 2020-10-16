@@ -364,5 +364,3 @@ After a incident occurs, have a discussion about it (Who, What, When, Why, What)
 Do not enroll in blame culture, as people will feel compelled to cover up problem areas.
 
 ## 1.4 Statistics Primer
-
-# 2. Monitoring Tactics
