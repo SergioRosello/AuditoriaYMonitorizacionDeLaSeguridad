@@ -2,3 +2,5 @@ documentosdeauditoriaymonitorizaciondelaseguridad
 GuiaCompleta_31109025_2020.pdf
 tags
 *.mp4
+*.pcap
+PECs/PEC1-Wireshark/pcaps/**/*
