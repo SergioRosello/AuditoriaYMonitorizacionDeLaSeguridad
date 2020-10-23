@@ -1,0 +1,65 @@
+å                                 ==============================================
+                                            Operating System Intel Recovery
+                                 ==============================================
+PC Name: BREAUX-WIN7-PC
+Local Time: 5/2/2019 9:36:23 PM
+Installed Language: en-US
+Net Version: 2.0.50727.5420
+Operating System Platform: Win32NT
+Operating System Version: 6.1.7601.65536
+Operating System: Microsoft Windows 7 Enterprise 
+Internal IP Address: 10.0.0.227
+External IP Address: 
+Installed Anti-Virus: 
+Installed Firewall: 
+                                 ==============================================
+                                            WEB Browser Password Stealer
+                                 ==============================================
+==================================================
+URL               : https://accounts.google.com/signin/v2/sl/pwd
+Web Browser       : Chrome
+User Name         : adriana.breaux@gmail.com
+Password          : P@ssw0rd$
+Password Strength : Very Strong
+User Name Field   : identifier
+Password Field    : password
+==================================================
+
+==================================================
+URL               : https://www.bbt.com/
+Web Browser       : Internet Explorer 7.0 - 9.0
+User Name         : adriana.breaux
+Password          : P@ssw0rd$
+Password Strength : Very Strong
+User Name Field   : 
+Password Field    : 
+==================================================
+
+
+                                 ==============================================
+                                          Mail Messenger Password Stealer
+                                 ==============================================
+==================================================
+Name              : Adriana Breaux
+Application       : MS Outlook 2002/2003/2007/2010
+Email             : adriana.breaux@gmail.com
+Server            : pop.gmail.com
+Server Port       : 995
+Secured           : No
+Type              : POP3
+User              : adriana.breaux
+Password          : P@ssw0rd$
+Profile           : Outlook
+Password Strength : Very Strong
+SMTP Server       : smtp.gmail.com
+SMTP Server Port  : 587
+==================================================
+
+
+                                 ==============================================
+                                          Internet Download Manager Stealer
+                                 ==============================================
+
+                                 ==============================================
+                                            JDownloader Password Stealer
+                                 ==============================================
