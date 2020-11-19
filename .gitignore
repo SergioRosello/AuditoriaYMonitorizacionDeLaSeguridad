@@ -4,3 +4,7 @@ tags
 *.mp4
 *.pcap
 PECs/PEC1-Wireshark/pcaps/**/*
+*.png
+*.jpg
+**/.ses.vim
+.ses.vim
