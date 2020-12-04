@@ -34,3 +34,19 @@
 1. [ntop](https://www.ntop.org/) Network monitoring solution
 1. [whatsupgold](https://www.whatsupgold.com/) Network monitoring solution
 
+
+**Logging servers**
+
+1. [Splunk](https://www.splunk.com/) Data analysis engine
+1. [HP Arcsight ESM](https://www.microfocus.com/en-us/products/siem-security-information-event-management/overview) Data analysis engine
+1. [graylog2](https://www.graylog.org/) Centralized log management
+
+**Threat intelligence platforms to consider visiting**
+
+1. [Cyber Squad ThreatConnect](http://www.threatconnect.com/) Threat data collection, analysis, collaboration, and expertise in a single platform.
+1. [BAE Detica CyberReveal](http://baesystems.com/) A multithreat monitoring, analytics, investigation, and response product.
+1. [Lockheed Martin Palisade](http://www.lockheedmartin.com/) threat collection, analysis, collaboration, and expertise in a single platform
+1. [MITRE CRITs](https://crits.github.io/) Collaborative Research Into Threats (CRITs)
+1. [Structured Threat Information eXpression (STIX)](http://stix.mitre.org/) express language designed for sharing of cyberattack information
+1. [Open Indicators Of Compromise (OpenIOC)](http://www.openioc.org/)  Open framework for sharing threat intelligence in a machine-digestible format.
+1. [Cyber Observable eXpression (CybOX)](https://cybox.mitre.org/) free standardized schema for specification, capture, characterization, and communication of events of stateful properties that are observable in the operational domain.
