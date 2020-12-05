@@ -199,8 +199,44 @@ Plan to consume it, and how threat intelligence will integrate with your SOC tec
 
 ## Compliance
 
+Monitoring the compliance of your system against reference configuration templates gives you an opportunity to detect changes and existing configuration problems that could lead to a possible breach.
+
+Many tools, such as Nessus or Nexpose provide compliance tools that enable them to remotely login to your system and analyze a reference benchmark.
+
+Automate the system compliance process and link it to the risk management and incident response practices.
+
 ## Ticketing and Case Management
+
+The SOC team is responsible of tracking potential incidents, from the moment they are made aware of them, until they are resolved.
+
+A key point to consider is that remediating some incidents, may require sponsoring of some teams external to the SOC, like business teams.
+They should also be on board.
+
+The RACI Matrix is a valuable tool in managing roles and responsibilities when an organization is in a state of change.
+
+R = Responsible,
+A = Accountable,
+C = Consult,
+I = Inform
+
+![RACI Matrix](./RACIMatrix.png)
+
+The steps to built the matrix are:
+
+1. Identify all the processes or activities known (List on the left of the matrix)
+1. List all the roles at the top of the matrix
+1. Create values to reference (R, A, C, I, AR)
+1. Verify that every process has a R, and that there is only one R per process.
 
 ## Collaboration
 
+The SOC team should have a central collaboration platform that stores, manages, and provides access to documents.
+Communication is important within the SOC, so make sure to provide access to internal messaging, websites, and documentation.
+
 ## SOC Conceptual Architecture
+
+To get the most out of a SOC, the several products, (monitoring systems, documentation, communication) should be able to coexist in a cohesive architecture.
+
+Proposed architecture, consisting on Sources, Alerts and Actions, technologies and their relationships, recollection areas.
+
+![SOC Schema](./SOCSchema.png)
