@@ -1,0 +1,3 @@
+[submodule "PECs/PEC5/SOC"]
+	path = PECs/PEC5/SOC
+	url = git@github.com:SergioRosello/SOC.git
