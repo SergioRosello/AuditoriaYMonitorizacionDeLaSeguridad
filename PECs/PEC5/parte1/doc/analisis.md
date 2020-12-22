@@ -3,7 +3,7 @@
 > Sergio Rosello Morell
 
 En el presente documento, se van a analizar cinco soluciones SIEM Open-Source y cinco soluciones SIEM Comerciales.
-Este análisis se va a centrar en responder a algunas preguntar clave, que debe hacer cualquier organización cuando esta planteando implementar una solución SIEM.
+Este análisis se va a centrar en proporcionar una opinión informada al lector para que pueda responder a una serie de preguntas clave que debe hacerse cuando la organización se plantea implementar un SIEM.
 
 * Como de bien se adapta el SIEM a las tecnologías que usa mi organización
 * Que necesita mi organización
@@ -85,6 +85,15 @@ La ventaja de esta decisión, es que el equipo se ha podido centrar en implement
 Ademas de esta decisión, han añadido la opción de usar Wazuh en la nube, aunque el equipo que quiera usarlo en la nube, deberá pagar 500 euros al mes para la solución mas barata.
 
 ### 5. Security Onion
+
+Security Onion nos proporciona una distribución de GNU/Linux completa diseñada específicamente para la búsqueda activa de amenazas, monitorización de seguridad y gestión de registros.
+
+Una de las características mas importantes, es que une registro de paquetes de red, detección de red y endpoint (Alertas, metadata, monitorización, registros, etc...) y una buena herramienta de análisis, en la Security Onion Console.
+
+Une distintos proyectos Open Source para crear la plataforma, como Google Steganogrpher, Elasticsearch, Logstash, Kibana, Suricata entre otros.
+
+Como cualquier otro SIEM moderno, Security Onion tiene incorporado en el SIEM una herramienta llamada "TheHive" para gestionar los eventos que van apareciendo en la red.
+De esta forma, distintos miembros del equipo de analistas de la red están informados sobre el estado de las diferentes alertas en tiempo real.
 
 ## SIEM Comerciales
 
