@@ -34,5 +34,6 @@ jobs:
       - name: Generate PDF files from .md files
         run: |
           echo $GITHUB_WORKSPACE,
-          cd $GITHUB_WORKSPACE/PECs/PEC5/parte1/doc/,
+          pwd,
+          cd PECs/PEC5/parte1/doc/,
           pandoc analisis.md -f markdown -t latex -s -o analisis.pdf
