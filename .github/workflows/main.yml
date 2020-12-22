@@ -22,7 +22,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - run: sudo apt-get install -y pandoc
+      - run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
